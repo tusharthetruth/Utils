@@ -1,4 +1,4 @@
-package in.textutils;
+package in.commonutils;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

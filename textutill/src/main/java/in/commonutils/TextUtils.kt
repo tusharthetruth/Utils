@@ -1,4 +1,4 @@
-package `in`.textutils
+package `in`.commonutils
 
 import android.text.TextUtils
 import android.widget.EditText
