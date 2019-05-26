@@ -20,5 +20,8 @@ allprojects {
 	}
 ```
 ```  
+dependencies {
+...
 implementation 'com.github.tusharthetruth:Utils:0.2'
+}
 ```
